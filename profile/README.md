@@ -1,6 +1,10 @@
-# OdraWMS
+<div align="center">
+  <img src="https://raw.githubusercontent.com/OdraWMS/.github/main/docs/images/wms_ic.png" alt="WMS Icon" width="120"/>
 
-PDA 기반 물류 창고 관리 시스템 (Warehouse Management System)
+  # OdraWMS
+
+  PDA 기반 물류 창고 관리 시스템 (Warehouse Management System)
+</div>
 
 ## 프로젝트
 
